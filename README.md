@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Layverse
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on blockchain
+- 👀 I’m interested in blockchain !
+- 🌱 I’m currently learning blockchain !
+- 💞️ I’m looking to collaborate on blockchain !
 - 📫 How to reach me layverse@laposte.net
 
 <!---
